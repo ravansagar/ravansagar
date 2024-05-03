@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagar Thakur
 - 👀 I’m interested in web development, data science and game development
-- 🌱 I’m currently studying Bachelor in Information Technology
+- 🌱 I’m currently enrolled in Bachelor in Information Technology
 - 📫 You can reach me through my email address : ravansagar@sagarthakur.com.np
 
 <!---
