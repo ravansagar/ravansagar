@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sagar Thakur
-- 👀 I’m interested in web development, data science and game development
+- 👀 I’m interested in web development, data science, game development and Quantum Computing
 - 🌱 I’m currently enrolled in Bachelor in Information Technology
 - 📫 You can reach me through my email address : ravansagar@sagarthakur.com.np
 
